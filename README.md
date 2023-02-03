@@ -1,5 +1,4 @@
 # Project_Recipt_Institution
-2021.02~2021.08/ institution for coding 
 
 작업기간 :	2021-05-03 ~ 2021-07-30 (2개월 28일) \
 작업 인원 :	4\
