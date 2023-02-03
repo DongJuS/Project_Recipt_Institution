@@ -3,7 +3,7 @@
 작업기간 :	2021-05-03 ~ 2021-07-30 (2개월 28일) \
 작업 인원 :	4\
 작업 툴	
-언어 : JAVA, JSP & Servlet, Ajax & jQuery, HTML5 & CSS3, JavaScript, JQuery
+언어 : JAVA, JSP & Servlet, Ajax & jQuery, HTML5 & CSS3, JavaScript\
 프레임워크 : Spring\
 DBMS : Oracle, AWS(RDS)\
 Repository : Github, Sourcetree\
